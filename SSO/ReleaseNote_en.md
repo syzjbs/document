@@ -1,3 +1,7 @@
+## API 4.0.10.0-(2020-06-02)
+### New Features
+* Add the client corresponding to the order and add the datacenter information in the clienttoken
+
 ## API 4.0.9.0-(2020-05-25)
 ### New Features
 * New API /admin/subscriptions admin can specify subscription ID to create subscription number
