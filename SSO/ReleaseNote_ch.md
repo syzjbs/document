@@ -1,3 +1,7 @@
+## API 4.0.10.0-(2020-06-02)
+### New Features
+* 新增order对应的clien并增加datacenter信息在clienttoken中。
+
 ## API 4.0.9.0-(2020-05-25)
 ### New Features
 * 新增api /admin/subscriptions admin可以指定订阅号id创建订阅号
